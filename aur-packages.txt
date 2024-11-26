@@ -1,0 +1,7 @@
+coolercontrol
+coolercontrol-liqctld
+coolercontrold
+proton-ge-custom-bin
+spotify
+ttf-ms-win10-auto
+yay
