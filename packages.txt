@@ -1,13 +1,30 @@
+man-db
+man-pages
 vim
 stow
-sudo
 less
-wget
+htop
+unzip
+p7zip
+tar
+reflector
 
+git
+wget
+curl
+openssh
 
 dolphin
 kate
 konsole
+gparted
+
+alacritty
+zsh
+bat
+exa
+ripgrep
+neovim
 
 flatpak-kcm
 
@@ -17,12 +34,10 @@ gparted
 corectrl
 liquidctl
 
-git
 github-cli
 nodejs
 npm
 sqlitebrowser
-reflector
 
 libreoffice-fresh
 
