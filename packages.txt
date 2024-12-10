@@ -3,7 +3,7 @@ man-pages
 vim
 stow
 less
-htop
+btop
 unzip
 p7zip
 tar
@@ -19,12 +19,12 @@ kate
 konsole
 gparted
 
-alacritty
 zsh
 bat
 exa
 ripgrep
 neovim
+zsh-autosuggestions
 
 flatpak-kcm
 
