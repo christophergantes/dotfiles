@@ -16,15 +16,18 @@ openssh
 
 dolphin
 kate
-konsole
 gparted
 
+konsole
 zsh
+zsh-autosuggestions
+zsh-syntax-highlighting
+starship
+
 bat
 exa
 ripgrep
 neovim
-zsh-autosuggestions
 
 flatpak-kcm
 
