@@ -80,13 +80,15 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [KTextEditor::Search]
-Replace History=l,,'\\\\[[$symbol]($style)\\\\]'
-Search History=\n\n,\n,\\\\n,'\\\\[[$symbol]($style)]\\\\]'
+Replace History=,l,'\\\\[[$symbol]($style)\\\\]'
+Search History=\s       ,\n\n,\n,\\\\n,'\\\\[[$symbol]($style)]\\\\]'
 
 [MainWindow]
 1969x1108 screen: Window-Maximized=true
 2048x1152 screen: Height=1090
 2048x1152 screen: Width=1024
+2048x1152 screen: Window-Maximized=true
+2327x1309 screen: Window-Maximized=true
 
 [filetree]
 editShade=31,81,106

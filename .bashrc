@@ -7,9 +7,6 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-alias cat="bat"
-alias ls="exa"
-alias grip='rg'
 
 PS1='[\u@\h \W]\$ '
 
