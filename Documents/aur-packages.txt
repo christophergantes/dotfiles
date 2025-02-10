@@ -2,5 +2,9 @@ coolercontrol
 coolercontrol-liqctld
 coolercontrold
 proton-ge-custom-bin
-ttf-ms-win10-auto
+heroic-games-launcher
 zen-browser-avx2-bin
+
+ebgaramond-otf
+ttf-merriweather
+ttf-ms-win10-auto

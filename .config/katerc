@@ -85,9 +85,8 @@ Search History=\s       ,\n\n,\n,\\\\n,'\\\\[[$symbol]($style)]\\\\]'
 
 [MainWindow]
 1969x1108 screen: Window-Maximized=true
-2048x1152 screen: Height=1090
-2048x1152 screen: Width=1024
-2048x1152 screen: Window-Maximized=true
+2048x1152 screen: Height=814
+2048x1152 screen: Width=898
 2327x1309 screen: Window-Maximized=true
 
 [filetree]
