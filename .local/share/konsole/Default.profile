@@ -3,7 +3,7 @@ AntiAliasFonts=true
 BoldIntense=true
 BorderWhenActive=false
 ColorScheme=catppuccin-mocha
-Font=JetBrains Mono,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+Font=JetBrainsMono Nerd Font Mono,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 LineSpacing=0
 UseFontLineChararacters=false
 

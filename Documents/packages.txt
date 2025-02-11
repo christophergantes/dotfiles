@@ -74,5 +74,6 @@ ttf-fira-sans
 ttf-hanazono
 ttf-ibm-plex
 ttf-jetbrains-mono
+ttf-jetbrains-mono-nerd
 ttf-liberation
 ttf-roboto
